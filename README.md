@@ -4,9 +4,55 @@
   <img src="https://img.shields.io/github/stars/mayank6386?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
-# 💫 About Me:
-- 🔭 I’m currently working on **AI-Driven Multi-Vendor Marketplace using Next.js, TypeScript, MongoDB, and Auth.js**<br><br>- 👯 I’m looking to collaborate on **Enterprise Java, Spring Boot, React, Next.js, and Open Source Projects**<br><br>- 🤝 I’m looking for help with **Cloud Architecture, Kubernetes, AWS, and Distributed Systems**<br><br>- 🌱 I’m currently learning **Spring Boot, Microservices, Docker, Kubernetes, AWS, Redis, and System Design**<br><br>- 💬 Ask me about **Java, Spring Boot, React, Next.js, Node.js, MongoDB, SQL, REST APIs, Git, GitHub, and DSA**<br><br>- ⚡ Fun fact: **I love building AI-powered applications, solving coding challenges, and continuously learning new technologies to create scalable software.**
+<h1 align="center">Hi 👋, I'm Mayank Mishra</h1>
 
+<h3 align="center">
+Java Full Stack Developer • AI Enthusiast • Open Source Learner
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+%7C+Next.js+Developer;AI+Application+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayank6386&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+</p>
+
+<h2 align="left">💫 About Me</h2>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 👨‍💻 Full Stack Developer | Java & Spring Boot Enthusiast
+
+🚀 **Currently Building**  
+AI-Driven Multi-Vendor Marketplace using **Next.js, TypeScript, MongoDB & Auth.js**
+
+🌱 **Currently Learning**  
+Spring Boot • Microservices • Docker • Kubernetes • AWS • System Design
+
+💼 **Interested In**  
+Full Stack Development • Frontend Engineering • Backend Engineering • DevOps • Microservices • Distributed Systems • System Design • Artificial Intelligence 
+
+🤝 **Open to Collaborate On**  
+Java • Spring Boot • React • Next.js • Open Source Projects
+
+💬 **Ask Me About**  
+Java • Spring Boot • React • Next.js • Node.js • MongoDB • SQL • REST APIs • Git • GitHub • DSA
+
+⚡ **Fun Fact**  
+I enjoy building scalable software, solving DSA problems, and exploring modern software architecture.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding"/>
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iammayank2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iammayank2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank25042004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iammayank2004) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MayankMishraWebDevelopment) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayank63863@gmail.com) 
