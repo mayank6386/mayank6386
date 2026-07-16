@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayank6386&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mayank6386?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mayank6386?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</p>
+
 # 💫 About Me:
 - 🔭 I’m currently working on **AI-Driven Multi-Vendor Marketplace using Next.js, TypeScript, MongoDB, and Auth.js**<br><br>- 👯 I’m looking to collaborate on **Enterprise Java, Spring Boot, React, Next.js, and Open Source Projects**<br><br>- 🤝 I’m looking for help with **Cloud Architecture, Kubernetes, AWS, and Distributed Systems**<br><br>- 🌱 I’m currently learning **Spring Boot, Microservices, Docker, Kubernetes, AWS, Redis, and System Design**<br><br>- 💬 Ask me about **Java, Spring Boot, React, Next.js, Node.js, MongoDB, SQL, REST APIs, Git, GitHub, and DSA**<br><br>- ⚡ Fun fact: **I love building AI-powered applications, solving coding challenges, and continuously learning new technologies to create scalable software.**
 
@@ -13,10 +19,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayank6386&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayank6386&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mayank6386?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mayank6386?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
