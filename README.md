@@ -14,10 +14,6 @@ Java Full Stack Developer • AI Enthusiast • Open Source Learner
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+%7C+Next.js+Developer;AI+Application+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayank6386&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-</p>
-
 <h2 align="left">💫 About Me</h2>
 
 <table>
