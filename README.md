@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayank6386&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mayank6386?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mayank6386?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mayank Mishra</h1>
